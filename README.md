@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Junyoung%20Hong&fontSize=90&fongColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=72bad6&height=300&section=header&text=Junyoung%20Hong&fontSize=90&fontColor=FFFFFF)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508wnsdud0721&count_bg=%2335BBCA&title_bg=%230191BA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508wnsdud0721&count_bg=%2335BBCA&title_bg=%230191BA&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![wnsdud0721's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdud0721&theme=react&show_icons=true)
 
